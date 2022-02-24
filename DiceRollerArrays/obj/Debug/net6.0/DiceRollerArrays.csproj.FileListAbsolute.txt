@@ -1,0 +1,15 @@
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\bin\Debug\net6.0\DiceRollerArrays.exe
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\bin\Debug\net6.0\DiceRollerArrays.deps.json
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\bin\Debug\net6.0\DiceRollerArrays.runtimeconfig.json
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\bin\Debug\net6.0\DiceRollerArrays.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\bin\Debug\net6.0\ref\DiceRollerArrays.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\bin\Debug\net6.0\DiceRollerArrays.pdb
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.csproj.AssemblyReference.cache
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.AssemblyInfoInputs.cache
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.AssemblyInfo.cs
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\ref\DiceRollerArrays.dll
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.pdb
+C:\Users\James\Documents\College Papers\Spring 2021\IT 1050\Unit 3\Projects\DiceRollerArrays\obj\Debug\net6.0\DiceRollerArrays.genruntimeconfig.cache
